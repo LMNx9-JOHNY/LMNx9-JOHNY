@@ -49,8 +49,16 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo :
-![](https://github-contributor-stats.LMNx9-JOHNYvercel.app/api?username=LMNx9-JOHNY&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-024910.png)
+![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-024941.png)
+![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-025012.png)
+![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-025031.png)
+![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-025153.png)
+![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-025253.png)
+![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-025346.png)
+![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-025403.png)
+![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-025437.png)
+![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-025510.png)
 ### 😂 Random Dev Meme :
 <img src="https://rm.up.railway.app/" width="512px"/>
 
