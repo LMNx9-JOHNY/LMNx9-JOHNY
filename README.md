@@ -1,3 +1,4 @@
+![logo](https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/LMNx9-JOHNY_logo.gif)
 # 𝗗𝗔𝗥𝗞 𝗧𝗘𝗔𝗠 𝗟𝗠𝗡𝘅𝗝𝗢𝗛𝗡𝗬 
  # 🇧 🇭 🇭
    # 𝗟𝗠𝗡𝘅𝟗
