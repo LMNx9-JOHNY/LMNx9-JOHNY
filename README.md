@@ -17,13 +17,13 @@
 # 𝗕𝗲𝗵𝗮𝗻𝗰𝗲 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=black)](https://behance.net/LMNx9-JOHNY) 
 
 # 💻 Tech Stack : 𝗗𝗔𝗥𝗞 𝗟𝗠𝗡𝘅𝟗
-# ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# ![HTML](https://img.shields.io/badge/html-FCC624?style=for-the-badge&logo=html&logoColor=black) 
-# ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-# ![JavaScript](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-# ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-# ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-# ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/html-FCC624?style=for-the-badge&logo=html&logoColor=black) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
 # 📊 GitHub Stats : 𝗟𝗠𝗡𝘅𝟗-𝗝𝗢𝗛𝗡𝗬 
 ![](https://github-readme-stats.vercel.app/api?username=LMNx9-JOHNY&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LMNx9-JOHNY&theme=dark&hide_border=false)<br/>
