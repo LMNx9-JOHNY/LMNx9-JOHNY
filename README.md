@@ -1,5 +1,5 @@
 # 𝗗𝗔𝗥𝗞 𝗧𝗘𝗔𝗠 𝗟𝗠𝗡𝘅𝗝𝗢𝗛𝗡𝗬 [𝗕𝗛𝗛]
-# 𝗖𝘆𝗯𝗲𝗿 𝗞𝗶𝗻𝗴 𝗕𝗗
+# 🇱 🇮 🇲 🇴 🇳 
 
 
 ## 🌐 Socials :
@@ -9,8 +9,6 @@
 [![TikTok](https://img.shields.io/badge/Tiktok-%231877F2.svg?logo=Tiktok&logoColor=black)](https://tiktok.com/@lmnx9)
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/@LMNx9)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=black)](https://behance.net/LMNx9-JOHNY) 
-[![Twiter](https://img.shields.io/badge/twiter-1769ff?logo=twiter&logoColor=white)](https://twiter.net/LMNx9-JOHNY) 
-[![HackerZ](https://img.shields.io/badge/Hackerz-1769ff?logo=Hackerz&logoColor=black)](https://Hackerz.net/LMNx9-JOHNY) 
 # 💻 Tech Stack : 𝗗𝗔𝗥𝗞 𝗟𝗠𝗡𝘅𝟗
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-FCC624?style=for-the-badge&logo=html&logoColor=black) 
@@ -40,4 +38,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
- 
+  
