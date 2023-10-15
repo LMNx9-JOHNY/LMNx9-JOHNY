@@ -1,9 +1,9 @@
-𝗗𝗔𝗥𝗞 𝗧𝗘𝗔𝗠 𝗟𝗠𝗡𝘅𝗝𝗢𝗛𝗡𝗬 (𝗕𝗛𝗛)
-𝗖𝘆𝗯𝗲𝗿 𝗞𝗶𝗻𝗴 𝗕𝗗
+# 𝗗𝗔𝗥𝗞 𝗧𝗘𝗔𝗠 𝗟𝗠𝗡𝘅𝗝𝗢𝗛𝗡𝗬 (𝗕𝗛𝗛)
+# 𝗖𝘆𝗯𝗲𝗿 𝗞𝗶𝗻𝗴 𝗕𝗗
 
 
 ## 🌐 Socials :
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/LMNx9-JOHNY) [!Facebook(https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]https://facebook.com/LJ.LMNx9
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/LMNx9-JOHNY) [!Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]https://facebook.com/LJ.LMNx9
 
 # 💻 Tech Stack : 𝗗𝗔𝗥𝗞 𝗟𝗠𝗡𝘅𝟗
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
