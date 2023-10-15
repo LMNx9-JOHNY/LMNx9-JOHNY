@@ -60,11 +60,6 @@
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-025437.png)
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-025510.png)
 ### 😂 Random Dev Meme :
-<img src="https://rm.up.railway.app/" width="512px"/>
-
-[![](https://visitcount.itsvg.in/api?id=LMNx9-JOHNY&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/wrong-number-ohh-meme.gif)
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/wrong-number-ohh-meme.gif)
   
