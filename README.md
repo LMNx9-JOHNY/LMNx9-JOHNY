@@ -1,8 +1,6 @@
+# D͜͡A͜͡R͜͡K͜͡ T͜͡E͜͡A͜͡M͜͡ L͜͡M͜͡N͜͡x͜͡J͜͡O͜͡H͜͡N͜͡Y͜͡
 ![logo](https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/LMNx9-JOHNY_logo.gif)
-# 𝗗𝗔𝗥𝗞 𝗧𝗘𝗔𝗠 𝗟𝗠𝗡𝘅𝗝𝗢𝗛𝗡𝗬 
- # 🇧 🇭 🇭
-   # 𝗟𝗠𝗡𝘅𝟗
-
+ # 🇧 🇧 🇭 🇭
 
 ## 🌐 Socials :
 
@@ -48,7 +46,7 @@
 ### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo :
+### 📈 Top Contributed Repo :
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-024910.png)
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-024941.png)
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/Screenshot_20231016-025012.png)
@@ -62,4 +60,10 @@
 ### 😂 Random Dev Meme :
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/wrong-number-ohh-meme.gif)
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/wrong-number-ohh-meme.gif)
+![logo](https://github.com/LMNx9-JOHNY/ADMIN-LMNx9-INFO/blob/main/received_702104395109787.gif) 
+### 𝑻𝒂𝒓𝒈𝒆𝒕 𝑲𝒊𝒏𝒈 😈
+![logo](https://github.com/LMNx9-JOHNY/ADMIN-LMNx9-INFO/blob/main/received_702104395109787.gif)
   
+
+# 𝒀𝒐𝒖𝒓 𝑵𝒆𝒙𝒕 𝑫𝒂𝒅 😈
+# 𝑱𝒖𝒔𝒕 𝑭**𝒌 𝑨𝒕𝒕𝒊𝒕𝒖𝒅𝒆 🤬
