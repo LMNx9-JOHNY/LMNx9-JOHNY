@@ -38,11 +38,9 @@
 ### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme :
+### 🤣 Random Dev Meme :
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/wrong-number-ohh-meme.gif)
-![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/wrong-number-ohh-meme.gif)
-![logo](https://github.com/LMNx9-JOHNY/ADMIN-LMNx9-INFO/blob/main/received_702104395109787.gif) 
-### 𝑻𝒂𝒓𝒈𝒆𝒕 𝑲𝒊𝒏𝒈 😈
+###  𝑻𝒂𝒓𝒈𝒆𝒕 𝑲𝒊𝒏𝒈 😈
 ![logo](https://github.com/LMNx9-JOHNY/ADMIN-LMNx9-INFO/blob/main/received_702104395109787.gif)
   
 
