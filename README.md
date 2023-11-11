@@ -1,8 +1,9 @@
 # D͜͡A͜͡R͜͡K͜͡ T͜͡E͜͡A͜͡M͜͡ L͜͡M͜͡N͜͡x͜͡J͜͡O͜͡H͜͡N͜͡Y͜͡
 ![logo](https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/LMNx9-JOHNY_logo.gif)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝗛𝗶+𝗜'𝗺+𝗗𝗔𝗥𝗞+𝗟𝗠𝗡𝘅𝟵;+𝗜𝘁'𝘀+𝗡𝗼𝘁+𝗔+𝗝𝘂𝘀𝘁+𝗡𝗮𝗺𝗲+𝗕𝗿𝗼;𝗜𝘁'𝘀+𝗔+𝗕𝗿𝗮𝗻𝗱+😈;𝗧𝗵𝗮𝗻𝗸+𝗬𝗼𝘂+𝗘𝘃𝗲𝗿𝘆𝗼𝗻𝗲+🥰)](https://git.io/typing-svg)
  # 🇧 🇧 🇭 🇭
 
-## 🌐 Socials :
+## 🌐 Contact Me:
 
 # 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 [![FACEBOOK](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LJ.LMNx9)
 
