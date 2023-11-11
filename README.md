@@ -15,15 +15,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=🏆+➺+𝗚𝗶𝘁𝗛𝘂𝗯+➺+𝗧𝗿𝗼𝗽𝗶𝗲𝘀+࿐)](https://git.io/typing-svg)
 ![](https://github-profile-trophy.vercel.app/?username=LMNx9-JOHNY&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <h3 align="center">
+  
 ![U7P4L-IN](https://github-profile-trophy.vercel.app/?username=U7P4L-IN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  
 <!-- HacktoberFest Badges -->
+  
 [![An image of @U7P4L-IN's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amajaying3)](https://holopin.io/@U7P4L-IN)
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=✍️+➺+𝗗𝗲𝘃+➺+𝗤𝘂𝗼𝘁𝗲+࿐)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![logo](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=🤣+➺+𝗗𝗲𝘃+➺+𝗠𝗲𝗺𝗲+࿐)
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/wrong-number-ohh-meme.gif)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=😈+➺+𝗜'𝗺+𝗡𝗼𝘁+𝗣𝗲𝗿𝗳𝗲𝗰𝘁+࿐;😈+➺+𝗕𝘂𝘁+𝗟𝗶𝗺𝗶𝘁𝗲𝗱+𝗘𝗱𝗶𝘁𝗶𝗼𝗻+࿐)
