@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=❁+➺+𝗛𝗲𝗹𝗹𝗼+➺+𝗪𝗼𝗿𝗹𝗱+➺;❁+➺+𝗪𝗲𝗹𝗰𝗼𝗺𝗲+➺+𝗧𝗼+➺;❁+➺+𝗗+𝗔+𝗥+𝗞+➺;❁+➺+𝗟+𝗠+𝗡+𝘅+𝟵+➺;❁+➺+𝗣𝗿𝗼𝗳𝗶𝗹𝗲+࿐;︵+⚠️+︵)](https://git.io/typing-svg)
-
 ![logo](https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/LMNx9-JOHNY_logo.gif)
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=❁+𝗛𝗶+𝗜'𝗺+𝗗𝗔𝗥𝗞+𝗟𝗠𝗡𝘅𝟵+࿐;❁+𝗜𝘁'𝘀+𝗡𝗼𝘁+𝗔+𝗝𝘂𝘀𝘁+𝗡𝗮𝗺𝗲+𝗕𝗿𝗼+࿐;❁+𝗜𝘁'𝘀+𝗔+𝗕𝗿𝗮𝗻𝗱+😈+࿐;❁+𝗧𝗵𝗮𝗻𝗸+𝗬𝗼𝘂+𝗘𝘃𝗲𝗿𝘆𝗼𝗻𝗲+࿐)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=🌐+➺+𝗖𝗢𝗡𝗧𝗔𝗖𝗧+➺+𝗠𝗘+࿐)](https://git.io/typing-svg)
@@ -38,7 +37,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=🤣+➺+𝗗𝗲𝘃+➺+𝗠𝗲𝗺𝗲+࿐)
 ![logo](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-JOHNY/main/wrong-number-ohh-meme.gif)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=😈+➺+𝗜'𝗺+𝗡𝗼𝘁+𝗣𝗲𝗿𝗳𝗲𝗰𝘁+࿐;😈+➺+𝗕𝘂𝘁+𝗟𝗶𝗺𝗶𝘁𝗲𝗱+𝗘𝗱𝗶𝘁𝗶𝗼𝗻+࿐)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=😈+➺+𝗜'𝗺+𝗡𝗼𝘁+𝗣𝗲𝗿𝗳𝗲𝗰𝘁+࿐;😈+➺+𝗕𝘂𝘁+𝗟𝗶𝗺𝗶𝘁𝗲𝗱+𝗘𝗱𝗶𝘁𝗶𝗼𝗻+࿐)
 ![logo](https://github.com/LMNx9-JOHNY/ADMIN-LMNx9-INFO/blob/main/received_702104395109787.gif)
   
 
