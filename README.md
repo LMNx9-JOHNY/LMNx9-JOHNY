@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=❁+➺+𝗛𝗲𝗹𝗹𝗼+➺+𝗪𝗼𝗿𝗹𝗱+➺;❁+➺+𝗪𝗲𝗹𝗰𝗼𝗺𝗲+➺+𝗧𝗼+➺;❁+➺+𝗗+𝗔+𝗥+𝗞+➺;❁+➺+𝗟+𝗠+𝗡+𝘅+𝟵+➺;❁+➺+𝗣𝗿𝗼𝗳𝗶𝗹𝗲+࿐;︵+⚠️+︵)](https://git.io/typing-svg)
-![logo](https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/LMNx9-JOHNY_logo.gif)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=❁+𝗛𝗶+𝗜'𝗺+𝗗𝗔𝗥𝗞+𝗟𝗠𝗡𝘅𝟵+࿐;❁+𝗜𝘁'𝘀+𝗡𝗼𝘁+𝗔+𝗝𝘂𝘀𝘁+𝗡𝗮𝗺𝗲+𝗕𝗿𝗼+࿐;❁+𝗜𝘁'𝘀+𝗔+𝗕𝗿𝗮𝗻𝗱+😈+࿐;❁+𝗧𝗵𝗮𝗻𝗸+𝗬𝗼𝘂+𝗘𝘃𝗲𝗿𝘆𝗼𝗻𝗲+࿐)](https://git.io/typing-svg)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=🌐+➺+𝗖𝗢𝗡𝗧𝗔𝗖𝗧+➺+𝗠𝗘+࿐)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=15&lines=𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸+𝗟𝗶𝗻𝗸)](https://git.io/typing-svg)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LJ.LMNx9)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=15&lines=𝗬𝗼𝘂𝗧𝘂𝗯𝗲+𝗟𝗶𝗻𝗸)](https://git.io/typing-svg)[![YouTube](https://img.shields.io/badge/Youtube-%231877F2.svg?logo=Youtube&logoColor=red)](https://youtube.com/@LMNx9)
