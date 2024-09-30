@@ -246,4 +246,4 @@ func main() {
 
 <!-- Footer -->
 
-<img src="./assets/images/Footer.jpg">
+<img src="https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/Footer.jpg">
