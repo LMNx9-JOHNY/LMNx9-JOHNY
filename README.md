@@ -1,4 +1,8 @@
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
 <p align="center"><img src="https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/Linux.png"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <table border="0">
  <tr>
