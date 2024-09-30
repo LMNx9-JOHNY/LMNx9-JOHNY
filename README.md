@@ -13,10 +13,12 @@
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=LMNx9-JOHNY&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
-      <img alt="gif" src="./assets/images/demon-sleyar.gif">
+      <img alt="gif" src="https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/demon-sleyar.gif">
    </td>  
  </tr>  
 </table>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </b></h3>
