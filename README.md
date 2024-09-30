@@ -1,4 +1,4 @@
-<img width=100% title="DARK TEAM LMNx9" alt="DARK LMNx9" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DARK TEAM LMNx9&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="DARK TEAM LMNx9" alt="LMNx9-JOHNY" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DARK TEAM LMNx9&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <table border="0">
  <tr>
