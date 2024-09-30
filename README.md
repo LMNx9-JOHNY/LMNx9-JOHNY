@@ -1,4 +1,4 @@
-<img width=100% title="DARK TEAM LMNx9" alt="LMNx9-JOHNY" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DARK TEAM LMNx9&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<p align="center"><img src="https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/Linux.png"></p>
 
 <table border="0">
  <tr>
@@ -234,7 +234,7 @@ func main() {
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <!-- Contribution Snake -->
-<p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
+<p align="center"><img src="https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/Linux.png"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
